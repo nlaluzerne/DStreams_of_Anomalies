@@ -1,0 +1,25 @@
+Requirements:
+
+    Tools:
+        Jupyter Notebooks
+
+    Python:
+        Python 3.7 (Anaconda)
+
+    Libraries:
+        pandas
+        numpy
+        matplotlib.pyplot
+        scipy.stats - iqr
+
+    File Structure:
+        Provided, no need to modify file paths (as long as data is in \Data\realTraffic\)
+
+    Necessary Files:
+        occupancy_6005.csv
+        occupancy_t4013.csv
+        speed_6005.csv
+        speed_7578.csv
+        speed_t4013.csv
+        TravelTime_387.csv
+        TravelTime_451.csv
